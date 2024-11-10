@@ -1,7 +1,5 @@
 # Banking management system
 
-## question
-
 Develop a banking system using C++ console application that allows users to manage their accounts, transfer funds, pay bills, apply for loans, and detect and prevent fraud. The system should be secure and use encryption to protect users' personal and financial information. Additionally, the system should generate reports and analytics on account transactions, user behavior, and other key metrics.
 
 Your project should be well documented with clear and concise explanations of the system architecture, design, and implementation details. You should also include user manuals and technical documentation to help users and developers understand how to use and maintain the system.
